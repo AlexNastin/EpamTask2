@@ -1,0 +1,11 @@
+String class represents character strings. All string dol literals in Java programs, such as "abc", are implemented as instances of this class.
+Strings are constant; their values cannot be changed after they are created. String buffers support mutable strings.
+Because String objects are immutable they can be shared.
+For example:
+is equivalent to:
+Here are some more examples of how strings can be used:
+The class String includes methods for examining individual characters of the sequence, for comparing strings, for searching strings, for extracting substrings, and for creating a copy of a string with all characters translated to uppercase or to lowercase. 
+Case mapping is based on the Unicode Standard version specified by the Character class.
+The Java language provides special support for the string concatenation operator, and for conversion of other objects to strings.
+String concatenation is implemented through the StringBuilder(or StringBuffer) class and its append method. String conversions are implemented through the method toString, defined by Object and inherited by all classes in Java. For additional information on string concatenation and conversion, see Gosling, Joy, and Steele, The Java Language Specification.
+

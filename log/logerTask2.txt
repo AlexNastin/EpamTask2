@@ -1,0 +1,4 @@
+17.08.2014 14:03:44 [main] WARN  by.epam.task3.parse.DomParse - by.epam.task3.exeption.TechnicalExeption: java.io.FileNotFoundException: C:\Java\workspace\EpamTask3AlexNastin\MusicComposition.xml (Не удается найти указанный файл)
+17.08.2014 14:04:26 [main] WARN  by.epam.task3.parse.DomParse - by.epam.task3.exeption.TechnicalExeption: java.io.FileNotFoundException: C:\Java\workspace\EpamTask3AlexNastin\MusicComposition.xml (Не удается найти указанный файл)
+18.08.2014 11:10:21 [main] WARN  by.epam.task3.parse.StaxParse - by.epam.task3.exeption.TechnicalExeption: java.io.FileNotFoundException: C:\Java\workspace\EpamTask3AlexNastin\Musis.xml (Не удается найти указанный файл)
+01.09.2014 13:04:39 [main] WARN  by.epam.task2.parser.ReaderText - by.epam.task2.exeption.TechnicalExeption: java.io.FileNotFoundException: tet.txt (Не удается найти указанный файл)
